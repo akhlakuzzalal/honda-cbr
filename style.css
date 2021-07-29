@@ -1,0 +1,23 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header */
+.bg-header{
+    background: #264653;
+}
+.btn-clr{
+    background: #E76F51;
+}
+.font-pink{
+    color: #E76F51;
+}
+.filtered{
+    filter: grayscale(100%);
+}
+
+/* Footer */
+.list-style{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 15px;
+}
