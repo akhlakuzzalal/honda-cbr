@@ -16,8 +16,6 @@ body{
 }
 
 /* Footer */
-.list-style{
-    text-decoration: none;
-    list-style: none;
-    margin-right: 15px;
+.footer-option> a{
+    margin-right: 20px;
 }
